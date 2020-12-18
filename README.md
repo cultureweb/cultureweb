@@ -1,15 +1,8 @@
 ### Hi there 👋
-![Avatar](https://www.cultureweb.dev/static/media/me.jpg#avatar)
-<!--<img id=avatar align="right" height="100" width="100" style="border-radius:50%" src="https://www.cultureweb.dev/static/media/me.jpg">
--->
-Junior Web Developer
 
- img[src$="#avatar"]{
-  display: block;
-  margin: 0 auto;
-  border-radius: 50%;
-  max-width: 50%;
-}
+<img id=avatar align="right" height="100" width="100" alt="my picture"
+	title="my picture" border-radius="50%" src="https://www.cultureweb.dev/static/media/me.jpg">
+Junior Web Developer
 
 
 <!--
