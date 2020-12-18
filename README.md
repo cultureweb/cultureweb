@@ -1,6 +1,15 @@
 ### Hi there 👋
-<img align="right" height="100" width="100" style="border-radius:50%" src="https://www.cultureweb.dev/static/media/me.jpg">
+<img id=avatar align="right" height="100" width="100" style="border-radius:50%" src="https://www.cultureweb.dev/static/media/me.jpg">
 Junior Web Developer
+<style>
+ img[src$="#avatar"] {
+  display: block;
+  margin: 0 auto;
+  border-radius: 50%;
+  max-width: 50%;
+}
+</style>
+
 <!--
 **cultureweb/cultureweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
