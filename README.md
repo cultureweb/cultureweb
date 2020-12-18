@@ -2,7 +2,7 @@
 
 <img align="right" width="100" height="100" title="me" alt="me" src="https://www.cultureweb.dev/static/media/me2.png">
 I'm cédric, a french Web Junior Developer and Web designer.
-<br />
+---
 ![Cultureweb's github stats](https://github-readme-stats.vercel.app/api?username=cultureweb&hide=stars,issues)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cultureweb&hide=php)](https://github.com/cultureweb/github-readme-stats)
