@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" width="100" border-radius= "50" src="https://www.cultureweb.dev/static/media/me.jpg">
+<img align="right" width="100" height"50" src="https://www.cultureweb.dev/static/media/me.png">
 Junior Web Developer
 
 
