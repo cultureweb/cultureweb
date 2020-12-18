@@ -4,12 +4,11 @@
 -->
 Junior Web Developer
 
- img[src$="#avatar"] {
+ img[src$="#avatar"]{
   display: block;
   margin: 0 auto;
   border-radius: 50%;
   max-width: 50%;
-  float: right;
 }
 
 
