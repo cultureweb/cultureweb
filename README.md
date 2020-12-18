@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <img id=avatar align="right" height="100" width="100" alt="my picture"
-	title="my picture" border-radius="50%" src="https://www.cultureweb.dev/static/media/me.jpg">
+	title="my picture" border-radius="50" moz-border-radius: "50" src="https://www.cultureweb.dev/static/media/me.jpg">
 Junior Web Developer
 
 
