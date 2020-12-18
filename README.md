@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="right" height="auto" width="200" style="border-radius:50%" src="https://www.cultureweb.dev/static/media/me.jpg">
+<img align="right" height="100" width="100" style="border-radius:50%" src="https://www.cultureweb.dev/static/media/me.jpg">
 Junior Web Developer
 <!--
 **cultureweb/cultureweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
