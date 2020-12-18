@@ -3,7 +3,7 @@
 <img align="right" width="100" height="100" title="me" alt="me" src="https://www.cultureweb.dev/static/media/me2.png">
 Junior Web Developer
 
-
+![Cultureweb's github stats](https://github-readme-stats.vercel.app/api?username=cultureweb)
 <!--
 **cultureweb/cultureweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
