@@ -5,7 +5,7 @@ Javascript | TypeScript | Nodejs | REACT | POSTGRESQL | MongoDB | HTML | CSS
 I'm cédric, a french Web Junior Developer and Web Designer.
 <b><i>Let's connect! Find me on the web.</i></b>
 <p align="center">
-[<img src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+<img src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />[LinkedIn]
 <br />
 <hr />
 ### Hi there 👋
