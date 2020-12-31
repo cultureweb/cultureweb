@@ -15,7 +15,7 @@ I'm cédric, a french Web Junior Developer and Web Designer.
 <br />
 <hr />
 
-### Hi there 👋
+<h2>Hi there 👋</h2>
 
 * Primary coding language: Javascript and TypeScript.
 * I’m currently working on progressive web apps.
