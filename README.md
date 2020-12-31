@@ -4,6 +4,8 @@ Javascript | TypeScript | Nodejs | REACT | POSTGRESQL | MongoDB | HTML | CSS
 <img align="right" width="100" height="100" title="me" alt="my avatar" src="/me.png">
 I'm cédric, a french Web Junior Developer and Web Designer.
 <br />
+<br />
+<br />
 <p align="center">
 <b><i>Let's connect! Find me on the web.</i></b>
 <br />
@@ -12,6 +14,7 @@ I'm cédric, a french Web Junior Developer and Web Designer.
 <br />
 <hr />
 ### Hi there 👋
+
 * Primary coding language: Javascript and TypeScript.
 * I’m currently working on progressive web apps.
 * I am currently learning Docker
