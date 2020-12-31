@@ -8,6 +8,7 @@ I'm cédric, a french Web Junior Developer and Web Designer.
 <b><i>Let's connect! Find me on the web.</i></b>
 <br />
 <a target="_blank" href="https://www.linkedin.com/in/cedricmilius/"><img src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ </p>
 <br />
 <hr />
 ### Hi there 👋
