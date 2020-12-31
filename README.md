@@ -17,7 +17,7 @@ I'm cédric, a french Web Junior Developer and Web Designer.
 ![Cultureweb's github stats](https://github-readme-stats.vercel.app/api?username=cultureweb&hide=stars,issues)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cultureweb&hide=php)](https://github.com/cultureweb/github-readme-stats)
-
+[linkedin]: https://www.linkedin.com/in/cedricmilius/
 <!--
 **cultureweb/cultureweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
