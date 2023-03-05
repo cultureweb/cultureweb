@@ -1,5 +1,5 @@
 # [Cédric Milius](https://cultureweb.dev/)
-PHP | Javascript | TypeScript | Nodejs | REACT | POSTGRESQL | MongoDB | HTML | CSS
+DOCKER | PHP | Javascript | TypeScript | Nodejs | REACT | MYSQL | POSTGRESQL | MongoDB | HTML | CSS
 
 <img align="right" width="100" height="100" title="me" alt="my avatar" src="/me.png">
 I'm cédric, a french Web Junior Developer and Web Designer.
